@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39724
     wikipedia: http://en.wikipedia.org/wiki/Charles_Louis_L'H%C3%A9ritier_de_Brutelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38937#Sertum-Anglicum--13-Plantae-Rariores-quae-in-Hortis-Juxta-Londinum-imprimis-in-Horto-Regio-Ke_
 gutenberg_issued: '2012-02-20'
 gutenberg_type: Text
 identifiers:
