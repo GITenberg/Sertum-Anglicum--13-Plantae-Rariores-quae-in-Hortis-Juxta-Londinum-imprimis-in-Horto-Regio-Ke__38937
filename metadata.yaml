@@ -1,0 +1,35 @@
+_repo: Sertum-Anglicum--13-Plantae-Rariores-quae-in-Hortis-Juxta-Londinum-imprimis-in-Horto-Regio-Ke__38937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: L'Héritier de Brutelle, Charles Louis
+    aliases:
+    - L'Heritier de Brutelle, Charles Louis
+    - Brutelle, Charles Louis L'Héritier de
+    birthdate: 1746
+    deathdate: 1800
+    gutenberg_agent_id: '39724'
+    url: http://www.gutenberg.org/2009/agents/39724
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Louis_L'H%C3%A9ritier_de_Brutelle
+description: ''
+gutenberg_issued: '2012-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38937'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Royal Botanic Gardens, Kew'
+- !lcsh 'Rare plants -- England -- London'
+- !lcc 'QK'
+- !lcsh 'Plants -- England -- London'
+- !lcsh 'Plants -- Early works to 1800'
+- !lcsh 'Plants, Cultivated -- England -- London'
+title: "Sertum Anglicum, seu, Plantae Rariores quae in Hortis Juxta Londinum\r\nImprimis\
+  \ in Horto Regio Kewensi excoluntur, ab anno 1786 ad annum 1787 observata"
+url: http://www.gutenberg.org/ebooks/38937
